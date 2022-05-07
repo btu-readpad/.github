@@ -1,4 +1,4 @@
-## BTU - README | Blog’un Yeni Dünyası 🍿
+## BTU - READPAD | Blog’un Yeni Dünyası 🍿
 
 <!--
 
